@@ -15,7 +15,7 @@ public class Operations {
         int[] arrayNumbers = new int[numbers.length];     
 	    for(int i = 0; i < numbers.length; i++)
 		arrayNumbers[i] = Integer.parseInt( numbers[i] );
-                
+                *//ssss
             return arrayNumbers;	
 	}
     public void printArray(int[] array)throws IOException
